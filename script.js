@@ -1,7 +1,4 @@
-// const apiKey = "ab0bdc91ab805a806df04d3eeaa0f83f"
-// const apiUrl =  "https://api.openweathermap.org/data/2.5/weather?q=delhi&units=metric";
-
-const apikey = "7e53d83cf3824091b98135519252801";
+const apikey = "ab0bdc91ab805a806df04d3eeaa0f83f";
 const apiUrl =
   "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 
