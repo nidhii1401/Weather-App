@@ -1,8 +1,13 @@
+<<<<<<< HEAD
 const apiKey = "7e53d83cf3824091b98135519252801"; // Corrected API key variable name
 const apiUrl =
   "https://api.weatherapi.com/v1/current.json?key=" +
   apiKey +
   "&q=London&aqi=yes"; // Use https and template literals or concatenation
+=======
+const apikey = "7e53d83cf3824091b98135519252801";
+const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
+>>>>>>> fe2db649a61632827475dfcacc4f84e534b3b6ce
 
 const searchBox = document.querySelector(".search input");
 const searchBtn = document.querySelector(".search button");
